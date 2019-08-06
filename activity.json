@@ -1,0 +1,19 @@
+{
+  "name": "timestamp",
+  "version": "0.0.1",
+  "type": "flogo:activity",
+  "ref": "github.com/purna-s/timestamp",  
+  "title": "TimeStamp",
+  "description": "Current TimeStamp",
+  "author": "Purna S <purna.sadanala@prowesssoft.com>",
+
+  "inputs":[
+    
+  ],
+  "outputs": [
+	{
+      "name": "TimeStamp",
+      "type": "string"
+    }
+  ]
+}
